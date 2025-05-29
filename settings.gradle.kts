@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ASComponents"
 include(":app")
+include(":components")
